@@ -2,7 +2,7 @@
 This is the repository for code used in the paper
 - Dù, R.S., Smith, K.S. , Bühler, O., 2024. Next-order balanced model captures submesoscale physics and statistics
 
-It contain simulation and analysis of simulations of Eady turbulence under the QG<sup>+1</sup> model and of strain induced frontogenesis under the QG+1 and semigeostrophic model. 
+It contain simulation and analysis of simulations of Eady turbulence under the QG<sup>+1</sup> model and of strain induced frontogenesis under the QG<sup>+1</sup> and semigeostrophic model. 
 
 ## Instructions for Eady turbulence under QG<sup>+1</sup>
 - The file [`Eady_QGpl.py`](https://github.com/Empyreal092/QGp1_EadyTurb_2DFront_Public/blob/main/Eady/Eady_QGpl.py) simulates Eady turbulence under the QG<sup>+1</sup> model according to the parameters in the paper.
